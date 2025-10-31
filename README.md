@@ -1,2 +1,5 @@
-# leaf-2-wallet-consent
-    “Leaf‑2 of the modular trust protocol. Logs wallet consent events (address, agreement hash, timestamp, CAPTCHA verification) and anchors them to the legal agreements in leaf-1-legal. Feeds into leaf-3-fingerprint-proof for UI capture and Render deployment.”
+# Leaf‑2: Wallet Consent
+
+This repository logs wallet consent events (wallet address, agreement hash, timestamp, CAPTCHA verification).  
+It anchors to hashed agreements in [`leaf-1-legal`](https://github.com/phonicboon/leaf-1-legal) and feeds into [`leaf-3-fingerprint-proof`](https://github.com/phonicboon/leaf-3-fingerprint-proof).
+
