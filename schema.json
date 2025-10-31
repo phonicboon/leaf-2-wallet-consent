@@ -1,0 +1,7 @@
+{
+  "wallet": "string",
+  "agreement_hash": "string",
+  "timestamp": "ISO8601 string",
+  "captcha_verified": "boolean",
+  "version": "string"
+}
